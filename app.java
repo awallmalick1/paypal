@@ -1,5 +1,6 @@
-This is great
-developing java apps
+WE MANAGE;
+java applications
 .net application
 NodeJS application
 python applications
+web applications
